@@ -1,28 +1,25 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+title: 最新消息:少量牙买加蓝山巧克力将于下周上市
+date: 2023-01-03T09:22:31.836Z
+description: 我们很自豪地宣布，下周我们将在我们的店里提供一小批牙买加蓝山咖啡豆。
 ---
+我们预计下周一会有数量有限的青豆发运。我们从周二开始供应烤豆子，但数量有限，所以要快。
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+蓝山山峰是牙买加最高的山峰，也是加勒比地区最高的山峰之一，高7402英尺。它是蓝山咖啡和他们著名的旅游之乡。它位于牙买加的波特兰和圣托马斯教区的边界。
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## 一点历史
 
-## A little history
+蓝山被许多人认为是徒步旅行者和露营者的天堂。传统的蓝山徒步旅行是徒步7英里到达顶峰，其中包括海拔增加3000英尺。牙买加人喜欢在日出时到达山顶，因此3-4小时的徒步旅行通常是在黑暗中进行的。由于早晨的天空通常很晴朗，所以从远处就能看到古巴。
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
+在蓝山上发现的一些植物在世界上其他任何地方都找不到，它们通常是矮化的种类。
 
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
+这主要是由于寒冷的气候抑制了生长。Claverty Cottage和Hagley Gap的小型咖啡种植社区位于山顶附近。
 
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
+尝试前你需要知道的事情
 
-## What you need to know before trying
+牙买加蓝山咖啡或牙买加蓝山咖啡是一种生长在牙买加蓝山的咖啡。最好的蓝山咖啡以其温和的味道和缺乏苦味而闻名。在过去的几十年里，这种咖啡已经声名鹊起，成为世界上最昂贵和最受欢迎的咖啡之一。超过80%的牙买加蓝山咖啡出口到日本。除了用于煮咖啡，这种咖啡豆也是蒂亚玛丽亚咖啡利口酒的风味基础。
 
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
+牙买加蓝山咖啡是全球受保护的认证标志，这意味着只有通过牙买加咖啡工业委员会认证的咖啡才能被标记为蓝山咖啡。它来自牙买加蓝山地区一个公认的种植区，其种植由牙买加咖啡工业委员会监督。
 
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+蓝山通常位于南部的金斯顿和北部的安东尼奥港之间。海拔7402英尺，是加勒比地区最高的山脉之一。该地区气候凉爽多雾，雨量多。土壤肥沃，排水良好。这种气候和土壤的结合被认为是咖啡的理想产地。
+ 
