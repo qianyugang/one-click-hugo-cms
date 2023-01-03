@@ -2,10 +2,10 @@
 title: 联系我们
 logo: /img/logo.svg
 contact_entries:
-  - heading: Location
-    text: 3153 Lynn Avenue, South San Francisco, California 94080
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 地点
+    text: 加利福尼亚州南旧金山林恩大道3153号，邮编:94080
+  - heading: 工作时间
+    text: 周一至周六:上午9点至晚上7点，周日休息
 ---
 我们很乐意和你联系听听你的想法
 的问题。我们努力不断成长和提高您的反馈
