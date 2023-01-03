@@ -1,27 +1,30 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
-date: 2016-12-17T15:04:10.000Z
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+title: 让SCAA的新口味「Wheel」有意义
+date: 2023-01-03T09:23:29.670Z
+description: >-
+  咖啡品尝师使用的官方资源「咖啡味轮」今年首次进行了修订。
+
+  The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
 image: /img/blog-flavor_wheel.jpg
 ---
+SCAA更新了转盘，以反映更精确地描述口味所需的细微差别。新的描述更加详细，因此可以让杯控区分更多的口味。
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+虽然这对专业咖啡品鉴师来说是一个很大的变化，但对作为消费者的你来说也意味着很多。我们将解释轮子是如何产生的，专业人士如何使用它，以及这些味道的实际含义。
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+##更新对你意味着什么
 
-## What the updates mean to you
+美国精品咖啡协会(SCAA)成立于1982年，是精品咖啡行业的非营利性贸易组织。SCAA的会员遍布40多个国家，代表了精品咖啡行业的各个领域，包括:
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+-- 生产商
+-- 烧烤者
+-- 进口商/出口商 
+-- 零售商 
+-- 制造商
+-- 咖啡师
 
-- producers
-- roasters
-- importers/exporters
-- retailers
-- manufacturers
-- baristas
+30多年来，SCAA一直致力于通过认可、开发和推广精品咖啡来创建一个充满活力的精品咖啡社区。SCAA为行业制定和维护质量标准，开展市场研究，为其成员提供教育、培训、资源和业务服务。
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+咖啡杯，或咖啡品尝，是观察煮好的咖啡的味道和香气的实践。这是一种专业实践，但可以由任何人或被称为“Q评分者”的专业人士非正式地进行。标准的拔杯程序包括深深地闻咖啡，然后大声吸咖啡，这样咖啡就会扩散到舌头后部。
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+咖啡品酒师试图衡量咖啡味道的各个方面，特别是咖啡的口感(质地或口感，比如油腻)、甜度、酸度(一种尖锐和刺鼻的感觉，就像咬橘子时的感觉)、味道(杯子里的特征)和回味。由于咖啡豆带有来自其种植地区的独特风味，喝咖啡的人可能会试图识别咖啡的产地。
+ 
