@@ -1,26 +1,22 @@
 ---
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
-description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+title: 初学指南
+date: 2023-01-03T09:20:24.254Z
+description: 测试一下新的文章页面？
 image: /img/blog-chemex.jpg
 ---
+本周我们将看看在家用Chemex煮出美味咖啡的所有步骤。Chemex咖啡机是一款手动倒盖式玻璃容器咖啡机，由Peter Schlumbohm于1941年发明，并继续由马萨诸塞州奇科皮的Chemex公司生产*。
 
-This [week](/wdwdw) we’ll **take** a look at all the steps required to make astonishing coffee with a Chemex at home. The Chemex Coffeemaker is a manual, pour-over style glass-container coffeemaker that Peter Schlumbohm invented in 1941, and which continues to be manufactured by the Chemex Corporation in Chicopee, Massachusetts\*.
+1958年，伊利诺伊理工学院(https://www.spacefarm.digital)的设计师们表示，Chemex咖啡机是“现代设计最好的产品之一”，因此被纽约市现代艺术博物馆收藏。
 
-In 1958, designers at the [Illinois Institute of Technology](https://www.spacefarm.digital) said that the Chemex Coffeemaker is *"one of the best-designed products of modern times"*, and so is included in the collection of the Museum of Modern Art in New York City.
+## Chemex酿造的小秘密
 
-## The little secrets of Chemex brewing
+Chemex咖啡机由一个沙漏形的玻璃烧瓶组成，它有一个锥形漏斗状的颈(而不是Erlenmeyer烧瓶的圆柱形颈)，并使用专用的过滤器，由粘纸制成(比滴漏法咖啡机的标准纸过滤器更厚)，可以去除大部分咖啡油，冲泡咖啡的味道与其他咖啡冲泡系统的咖啡不同;此外，Chemex咖啡过滤器的厚纸可能有助于去除咖啡醇，这是一种在咖啡油中发现的含胆固醇的化合物。这里有三个重要的建议是新手们忘记的:
 
-The Chemex Coffeemaker consists of an hourglass-shaped glass flask with a conical funnel-like neck (rather than the cylindrical neck of an Erlenmeyer flask) and uses proprietary filters, made of bonded paper (thicker-gauge paper than the standard paper filters for a drip-method coffeemaker) that removes most of the coffee oils, brewing coffee with a taste that is different than coffee brewed in other coffee-making systems; also, the thicker paper of the Chemex coffee filters may assist in removing cafestol, a cholesterol-containing compound found in coffee oils. Here’s three important tips newbies forget about:
+1. 总是购买专用的Chemex过滤器。
+2. 用秤，不要用眼睛看。
+3. 不要忘记预热玻璃。
+4. 时机是关键，别忘了带时钟。
 
-1. Always buy dedicated Chemex filters.
-2. Use a scale, don’t try to eyeball it.
-3. Never skip preheating the glass.
-4. Timing is key, don’t forget the clock.
+Chemex最鲜明的视觉特征是颈部周围的隔热木项圈，可以在充满热水时处理和倾倒。这是旋转，然后分裂成两个，让它适合周围的玻璃颈。这两件衣服用一条系好的皮皮带松松地固定住。这些碎片没有捆绑得很紧，仍然可以轻微移动，由锥形玻璃的形状保留。
 
-The most visually distinctive feature of the Chemex is the heatproof wooden collar around the neck, allowing it to be handled and poured when full of hot water. This is turned, then split in two to allow it to fit around the glass neck. The two pieces are held loosely in place by a tied leather thong. The pieces are not tied tightly and can still move slightly, retained by the shape of the conical glass.
-
-For a design piece that became popular post-war at a time of Modernism and precision manufacture, this juxtaposition of natural wood and the organic nature of a hand-tied knot with the laboratory nature of glassware was a distinctive feature of its appearance.
+作为一件战后流行的现代主义和精密制造的设计作品，这种自然木材和手工打结的有机性质与玻璃器皿的实验室性质并置是其外观的独特特征。
