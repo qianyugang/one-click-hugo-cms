@@ -1,5 +1,5 @@
 ---
-title: 初学指南
+title: 初学指南1
 date: 2023-01-03T09:20:24.254Z
 description: 测试一下新的文章页面？
 image: /img/blog-chemex.jpg
